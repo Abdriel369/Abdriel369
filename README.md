@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, Im Abdriel Mendiola Aragon
+  
+Interested in **software development, data science, and artificial intelligence**.
 
-<!--
-**Abdriel369/Abdriel369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
+- Python
+- Java
+- SQL / NoSQL
+- Web Development
+- Docker
+- Data Science
 
-Here are some ideas to get you started:
+##  Contact
+abdrielmendiola39@gmail.com  
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdriel369&theme=highcontrast)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
