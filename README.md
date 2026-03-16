@@ -1,4 +1,4 @@
-# Hey, Im Abdriel Mendiola Aragon
+# Hey, I'm Abdriel Mendiola Aragon
   
 Interested in **software development, data science, and artificial intelligence**.
 
@@ -10,9 +10,10 @@ Interested in **software development, data science, and artificial intelligence*
 - Docker
 - Data Science
 
-##  Contact
+## Contact
 abdrielmendiola39@gmail.com  
+
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdriel369&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdriel369&layout=compact)
