@@ -5,6 +5,7 @@ Interested in **software development, data science, and artificial intelligence*
 ## Technologies
 - Python
 - Java
+- Kotlin
 - SQL / NoSQL
 - Web Development
 - Docker
@@ -12,6 +13,5 @@ Interested in **software development, data science, and artificial intelligence*
 
 ## Contact
 abdrielmendiola39@gmail.com  
-
-## GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdriel369&layout=compact)
+### Mis Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdriel369&layout=compact&theme=radical&show_icons=true)
