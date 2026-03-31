@@ -13,7 +13,5 @@ Interested in **software development, data science, and artificial intelligence*
 ## Contact
 abdrielmendiola39@gmail.com  
 
-## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdriel369&theme=highcontrast)](https://git.io/streak-stats)
-
+## GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdriel369&layout=compact)
