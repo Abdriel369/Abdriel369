@@ -1,17 +1,30 @@
 # Hey, I'm Abdriel Mendiola Aragon
-  
-Interested in **software development, data science, and artificial intelligence**.
 
-## Technologies
-- Python
-- Java
-- Kotlin
-- SQL / NoSQL
-- Web Development
-- Docker
-- Data Science
+ Passionate about **Software Development, Data Science, and AI**  
+ Always learning and building useful projects
 
-## Contact
-abdrielmendiola39@gmail.com  
-### Mis Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdriel369&layout=compact&theme=radical&show_icons=true)
+---
+
+##  About Me
+-  Backend & automation focus  
+-  Interested in AI and data analysis  
+-  Experience with APIs and Docker  
+
+---
+
+## Tech Stack
+- **Languages:** Python, Java, Kotlin  
+- **Databases:** SQL / NoSQL  
+- **Tools:** Docker, Git, Linux  
+- **Other:** Web Dev & API Integration  
+
+---
+
+##  GitHub Stats
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdriel369&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdriel369&theme=github-compact)
+
+
+##  Contact
+ abdrielmendiola39@gmail.com
