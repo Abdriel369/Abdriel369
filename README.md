@@ -6,17 +6,35 @@
 ---
 
 ##  About Me
--  Backend & automation focus  
--  Interested in AI and data analysis  
--  Experience with APIs and Docker  
+- Backend & automation focus  
+- Interested in AI and data analysis  
+- Experience with APIs, Docker, and workflow automation (n8n)  
 
 ---
 
-## Tech Stack
-- **Languages:** Python, Java, Kotlin  
-- **Databases:** SQL / NoSQL  
-- **Tools:** Docker, Git, Linux  
-- **Other:** Web Dev & API Integration  
+##  Tech Stack
+
+###  Languages
+- Python, Java, Kotlin, HTML
+
+###  Databases
+- SQL (MySQL, PostgreSQL)  
+- NoSQL (MongoDB)  
+
+###  DevOps & Tools
+- Docker, Git, Linux  
+- n8n (automation & workflow orchestration)  
+
+###  Development
+- Web Development  
+- API Integration  
+
+###  Data & Analytics
+- Data Science  
+- Spreadsheets (Excel / Google Sheets)  
+
+###  Other
+- English (Basic)  
 
 ---
 
@@ -25,6 +43,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdriel369&theme=github-compact)
 
+---
 
 ##  Contact
  abdrielmendiola39@gmail.com
